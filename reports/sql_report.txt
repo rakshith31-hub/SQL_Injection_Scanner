@@ -1,0 +1,13 @@
+SQL Injection Scan Report
+Target URL: http://localhost/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit
+Parameters found: ['id', 'Submit']
+============================================
+
+
+========== SCAN SUMMARY ==========
+Target URL: http://localhost/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit
+Parameters tested: ['id']
+Total tests performed: 5
+Total potential SQLi points found: 0
+Report file: reports/sql_report.txt
+==================================
